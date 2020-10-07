@@ -1,1 +1,1 @@
-This is an E-commerce website in which the user can purchase items.
+This is an E-commerce website in which the users can purchase items.
